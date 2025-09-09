@@ -54,3 +54,19 @@ Main stack: native JS, at the basic level Node.js, webix, experience with php an
 
 ##### eWave
 Main stack: Magento 2, Magento 1, Drupal, implementation of Critical CSS
+
+### Code example
+
+**Your order, please: KATA from CODEWARS** <br>
+*Your task is to sort a given string. Each word in the string will contain a single number. This number is the position the word should have in the result. If the input string is empty, return an empty string. The words in the input String will only contain valid consecutive numbers.*
+```js
+function order(words){
+  return words.split(' ').sort(function(a, b){
+      return a.match(/\d/) - b.match(/\d/);
+   }).join(' ');
+}
+```
+
+### Project example
+
+[Current Udemy study React project](https://github.com/ElenaYulova/marvel_starter)
