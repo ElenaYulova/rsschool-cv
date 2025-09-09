@@ -18,9 +18,9 @@ to get an opportunity to further developing of my skills
 ### Professional skills
 
  + HTML, CSS - advanced level
- + JavaScript - advanced level 
+ + JavaScript - advanced level
  + Git - advanced level
- + React/Redux, Webix, Node.JS - basic level 
+ + React/Redux, Webix, Node.JS - basic level
  + task runners and bundlers
  + Adobe Photoshop, Adobe Illustrator, Corel Draw
  + English: B2 level. EF SET Certificate for C2 (71/100) [Certificate](https://cert.efset.org/en/CYzWuz). Language experience: working with foreign clients and in foreign teams
